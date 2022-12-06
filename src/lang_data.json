@@ -1,0 +1,69 @@
+{
+    "data": {
+        "he": {
+            "send": "שלח",
+            "select_options": "בחר",
+            "new_item": "הוספת פריט",
+            "inicial_amount": "סכום ראשוני",
+            "save_config": "שמירה",
+            "add_item": "הוספה",
+            "delete_item": "מחיקה",
+            "update_item": "עדכון",
+            "clear_list": "איפוס",
+            "menu_app": "תפריט",
+            "amount": "סכום",
+            "currency": "₪",
+            "category": "קטגוריה",
+            "language" : "שפה",
+            "msg_reset_all": "למחוק כל הנתונים שברשימה?",
+            "msg_data_updated": "הנתונים נשמרו",
+            "msg_no_data": "אין נתונים להצגה",
+            "msg_invalid_value": "ערך לא תקין"
+        },
+        "en": {
+            "send": "send",
+            "select_options": "select",
+            "new_item": "new item",
+            "inicial_amount": "initial amount",
+            "save_config": "save",
+            "add_item": "add",
+            "delete_item": "delete",
+            "update_item": "update",
+            "clear_list": "reset",
+            "menu_app": "menu",
+            "amount": "amount",
+            "currency": "$",
+            "category": "category",
+            "language" : "language",
+            "msg_reset_all": "Delete all the data in the list?",
+            "msg_data_updated": "The data has been saved",
+            "msg_no_data": "no data to display",
+            "msg_invalid_value": "invalid value"
+        },
+        "pt": {
+            "send": "enviar",
+            "select_options": "selecionar",
+            "new_item": "novo item",
+            "inicial_amount": "valor inicial",
+            "save_config": "salvar",
+            "add_item": "adicionar",
+            "delete_item": "deletar",
+            "update_item": "atualizar",
+            "clear_list": "resetar",
+            "menu_app": "menu",
+            "amount": "quantia",
+            "currency": "R$",
+            "category": "categoria",
+            "language" : "idioma",
+            "msg_reset_all": "Excluir todos os dados da lista?",
+            "msg_data_updated": "Os dados foram salvos",
+            "msg_no_data": "sem dados a expor",
+            "msg_invalid_value": "valor invalido"
+        }
+    },
+    "type" : {
+        "he":1,
+        "en":2,
+        "pt":3
+    }
+}

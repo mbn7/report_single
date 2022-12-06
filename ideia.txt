@@ -1,0 +1,27 @@
+controle de uso de dinheiro designado a tal termo
+mostrar o quanto restou ate o fianal do periodo (quantia e (bonus: porcentagem)
+mostrar corriculo (data + quantia)
+dinamico em relacao ao valor inicial
+
+-------------------------------------------------------------------------
+linguas: html/css/php/mysql
+
+-----------------------------------------------------------------------
+conceito:
+	media query@ cell
+	div = echo(quantia restante) [2x]
+	form = input(quantia inicial) [2x] (future config-> add/incrise)
+	            input(quantia gasta no momento) [2x]
+	            submit
+	div = echo(lista de dados gastos) [2x]
+
+fichers:
+	mudar p color:red qnd amount-top <
+	lapis de update para top & list
+	filtro p list (por: 
+					one-list-categoryID, 
+					one-list-mix-categoryID, 
+					one-list-all,
+					multiple_side-list-mix-categoryID, 
+					multiple_side-list-all, 
+					calendario)
